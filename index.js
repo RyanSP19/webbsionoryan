@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('goooooooo pe')
+    alert('Entra GRANDISIMA GUAPA')
 });
 
 const noBtn = document.querySelector('#noBtn');
