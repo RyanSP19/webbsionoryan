@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Entra GRANDISIMA PRECIOSA')
+    alert('vayamos a ver atardeceres o cielos bonitos xd')
 });
 
 const noBtn = document.querySelector('#noBtn');
